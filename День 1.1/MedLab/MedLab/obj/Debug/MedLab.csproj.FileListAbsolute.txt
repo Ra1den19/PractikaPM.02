@@ -1,0 +1,14 @@
+C:\Games\MedLab\MedLab\obj\Debug\MedLab.csproj.AssemblyReference.cache
+C:\Games\MedLab\MedLab\obj\Debug\MedLab.csproj.SuggestedBindingRedirects.cache
+C:\Games\MedLab\MedLab\obj\Debug\MedLab.Buhgalter_Auth.resources
+C:\Games\MedLab\MedLab\obj\Debug\MedLab.MedLab.resources
+C:\Games\MedLab\MedLab\obj\Debug\MedLab.Laborant_Auth.resources
+C:\Games\MedLab\MedLab\obj\Debug\MedLab.Properties.Resources.resources
+C:\Games\MedLab\MedLab\obj\Debug\MedLab.csproj.GenerateResource.cache
+C:\Games\MedLab\MedLab\obj\Debug\MedLab.csproj.CoreCompileInputs.cache
+C:\Games\MedLab\MedLab\bin\Debug\MedLab.exe.config
+C:\Games\MedLab\MedLab\bin\Debug\MedLab.exe
+C:\Games\MedLab\MedLab\bin\Debug\MedLab.pdb
+C:\Games\MedLab\MedLab\obj\Debug\MedLab.exe
+C:\Games\MedLab\MedLab\obj\Debug\MedLab.pdb
+C:\Games\MedLab\MedLab\obj\Debug\MedLab.Orders.resources
