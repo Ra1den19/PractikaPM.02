@@ -1,0 +1,15 @@
+C:\Games\Simplex\Simplex\obj\Debug\net6.0\Simplex.csproj.AssemblyReference.cache
+C:\Games\Simplex\Simplex\obj\Debug\net6.0\Simplex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\Simplex\Simplex\obj\Debug\net6.0\Simplex.AssemblyInfoInputs.cache
+C:\Games\Simplex\Simplex\obj\Debug\net6.0\Simplex.AssemblyInfo.cs
+C:\Games\Simplex\Simplex\obj\Debug\net6.0\Simplex.csproj.CoreCompileInputs.cache
+C:\Games\Simplex\Simplex\bin\Debug\net6.0\Simplex.exe
+C:\Games\Simplex\Simplex\bin\Debug\net6.0\Simplex.deps.json
+C:\Games\Simplex\Simplex\bin\Debug\net6.0\Simplex.runtimeconfig.json
+C:\Games\Simplex\Simplex\bin\Debug\net6.0\Simplex.dll
+C:\Games\Simplex\Simplex\bin\Debug\net6.0\Simplex.pdb
+C:\Games\Simplex\Simplex\obj\Debug\net6.0\Simplex.dll
+C:\Games\Simplex\Simplex\obj\Debug\net6.0\refint\Simplex.dll
+C:\Games\Simplex\Simplex\obj\Debug\net6.0\Simplex.pdb
+C:\Games\Simplex\Simplex\obj\Debug\net6.0\Simplex.genruntimeconfig.cache
+C:\Games\Simplex\Simplex\obj\Debug\net6.0\ref\Simplex.dll

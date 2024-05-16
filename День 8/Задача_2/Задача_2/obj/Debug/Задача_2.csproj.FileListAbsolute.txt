@@ -1,0 +1,11 @@
+C:\Games\Задача_2\Задача_2\bin\Debug\Задача_2.exe.config
+C:\Games\Задача_2\Задача_2\bin\Debug\Задача_2.exe
+C:\Games\Задача_2\Задача_2\bin\Debug\Задача_2.pdb
+C:\Games\Задача_2\Задача_2\obj\Debug\Задача_2.csproj.AssemblyReference.cache
+C:\Games\Задача_2\Задача_2\obj\Debug\Задача_2.csproj.SuggestedBindingRedirects.cache
+C:\Games\Задача_2\Задача_2\obj\Debug\Задача_2.Form1.resources
+C:\Games\Задача_2\Задача_2\obj\Debug\Задача_2.Properties.Resources.resources
+C:\Games\Задача_2\Задача_2\obj\Debug\Задача_2.csproj.GenerateResource.cache
+C:\Games\Задача_2\Задача_2\obj\Debug\Задача_2.csproj.CoreCompileInputs.cache
+C:\Games\Задача_2\Задача_2\obj\Debug\Задача_2.exe
+C:\Games\Задача_2\Задача_2\obj\Debug\Задача_2.pdb
