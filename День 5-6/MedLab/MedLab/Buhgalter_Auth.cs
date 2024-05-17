@@ -44,7 +44,7 @@ namespace MedLab
         }
 
         private bool isColor = true;
-        private void pass_Click(object sender, EventArgs e)
+        public void pass_Click(object sender, EventArgs e)
         {
             par.UseSystemPasswordChar = !par.UseSystemPasswordChar;
             if (isColor)

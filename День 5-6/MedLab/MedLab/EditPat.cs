@@ -45,7 +45,22 @@ namespace MedLab
 
         private void button1_Click(object sender, EventArgs e)
         {
-           try
+            EditPatient();
+        }
+
+        private void button2_MouseEnter(object sender, EventArgs e)
+        {
+            label9.Visible = true;
+        }
+
+        private void button2_MouseLeave(object sender, EventArgs e)
+        {
+            label9.Visible = false;
+        }
+
+        public void EditPatient()
+        {
+            try
             {
                 if (fio.Text == "" || nomstrah.Text == "" || tipstrah.Text == "" || ser.Text == "" || nom.Text == "")
                 {
@@ -75,16 +90,6 @@ namespace MedLab
             {
                 MessageBox.Show("Данные введены неверно. Проверьте правильность введённых данных");
             }
-        }
-
-        private void button2_MouseEnter(object sender, EventArgs e)
-        {
-            label9.Visible = true;
-        }
-
-        private void button2_MouseLeave(object sender, EventArgs e)
-        {
-            label9.Visible = false;
         }
     }
 }

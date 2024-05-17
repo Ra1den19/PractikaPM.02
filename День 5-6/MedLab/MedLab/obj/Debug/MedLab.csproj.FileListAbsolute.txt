@@ -156,3 +156,47 @@ C:\Users\nicit\OneDrive\Рабочий стол\MedLab\MedLab\obj\Debug\MedLab.A
 C:\Users\nicit\OneDrive\Рабочий стол\MedLab\MedLab\obj\Debug\MedLab.Buhgalter_Work.resources
 C:\Users\nicit\OneDrive\Рабочий стол\MedLab\MedLab\obj\Debug\MedLab.EditPat.resources
 C:\Users\nicit\OneDrive\Рабочий стол\MedLab\MedLab\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\bin\Debug\MedLab.exe.config
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\bin\Debug\MedLab.exe
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\bin\Debug\MedLab.pdb
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\bin\Debug\ExCSS.dll
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\bin\Debug\System.Buffers.dll
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\bin\Debug\System.Memory.dll
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\bin\Debug\System.Resources.Extensions.dll
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\bin\Debug\System.Text.Json.dll
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\bin\Debug\System.ValueTuple.dll
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\bin\Debug\System.Buffers.xml
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\bin\Debug\System.Memory.xml
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\bin\Debug\System.Resources.Extensions.xml
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\bin\Debug\System.Text.Json.xml
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\bin\Debug\System.ValueTuple.xml
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\obj\Debug\MedLab.csproj.AssemblyReference.cache
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\obj\Debug\MedLab.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\obj\Debug\MedLab.AddBiom.resources
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\obj\Debug\MedLab.AddPatient.resources
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\obj\Debug\MedLab.Analizator.resources
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\obj\Debug\MedLab.Biomaterials.resources
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\obj\Debug\MedLab.Buhgalter_Auth.resources
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\obj\Debug\MedLab.Buhgalter_Work.resources
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\obj\Debug\MedLab.EditOrders.resources
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\obj\Debug\MedLab.EditPat.resources
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\obj\Debug\MedLab.MedLab.resources
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\obj\Debug\MedLab.Laborant_Auth.resources
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\obj\Debug\MedLab.Orders.resources
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\obj\Debug\MedLab.Properties.Resources.resources
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\obj\Debug\MedLab.csproj.GenerateResource.cache
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\obj\Debug\MedLab.csproj.CoreCompileInputs.cache
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\obj\Debug\MedLab.csproj.CopyComplete
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\obj\Debug\MedLab.exe
+C:\Users\nicit\OneDrive\Рабочий стол\PractikaPM.02\День 5-6\MedLab\MedLab\obj\Debug\MedLab.pdb
